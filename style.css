@@ -4,4 +4,9 @@ body {
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
+  color:#fff
+}
+
+h1{
+  text-align:center;
 }
