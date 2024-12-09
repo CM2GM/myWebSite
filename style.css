@@ -31,7 +31,8 @@ a{
 section{
   padding:15px; 
   display:flex;
-  justify-content:center;
+  align-items:center;
+  justify-content:space-around;
 }
 
 article{
@@ -44,7 +45,6 @@ article{
   color:#fff;
   padding:15px;
 }
-
 
 h2{
   border-bottom:1px solid #fff;
