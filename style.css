@@ -13,9 +13,8 @@ header{
   padding: 15px;
   opacity:0.9;
   color:#fff;
-  position:fixed;
-  top:0px;
-  width:100%;
+  z-index:1;
+  position:relative;
 }
 
 h1{
