@@ -12,7 +12,7 @@ header{
   border:1px solid #262626;
   padding: 15px;
   opacity:0.9;
-  color:#fff
+  color:#fff;
 }
 
 h1{
@@ -37,7 +37,7 @@ section{
 
 article{
   height: 300px;
-  max-width:100px
+  max-width:100px;
   width:100%;
   background-color:#0066cc;
   opacity:0.9;
