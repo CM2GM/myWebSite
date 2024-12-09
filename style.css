@@ -1,15 +1,13 @@
 body {
   background-image: url("fond.jpg");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  background-attachment: fixed;
+  background-repeat:no-repeat;
+  background-position:center;
+  background-size:cover;
+  background-attachment:fixed;
 }
 
 header{
   background-color:#0066cc;
-  background-size: cover;
-  background-attachment: fixed;
   text-align:center;
   border:1px solid #262626;
   color:#fff;  
@@ -38,11 +36,8 @@ section{
   align-items:center;
   justify-content:center;
   flex-wrap:wrap;
-  overflow-y: scroll;
-  scrollbar-color: #000 #fff;
-  scrollbar-width: Auto;
   background-color:#fff;
-  opacity:0.9;
+  opacity:0.5;
 }
 
 article{
