@@ -7,13 +7,12 @@ body {
 }
 
 header{
-  text-align:center;
   background-color:#0066cc;
+  background-size: cover;
+  background-attachment: fixed;
+  text-align:center;
   border:1px solid #262626;
-  color:#fff;
-  position:fixed;
-  top:0px;
-  width:100%;
+  color:#fff;  
 }
 
 h1{
