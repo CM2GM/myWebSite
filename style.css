@@ -11,7 +11,7 @@ header{
   background-color:#0066cc;
   border:1px solid #262626;
   color:#fff;
-  margin:0px;
+  position:fixed;
 }
 
 h1{
@@ -38,6 +38,8 @@ section{
   justify-content:center;
   flex-wrap:wrap;
   overflow-y: scroll;
+  scrollbar-color: #000 #fff
+  scrollbar-width: Auto 
 }
 
 article{
